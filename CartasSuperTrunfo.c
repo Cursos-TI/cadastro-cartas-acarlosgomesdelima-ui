@@ -80,6 +80,8 @@
     printf("PIB (em bilhoes): %.2f\n", pib1);
     printf("Densidade: %.2f hab/km2\n", densidade_populacional1);
     printf("PIB per capita: R$ %.2f\n", pib_per_capita1);
+    
+    printf("\n---------------------------------\n");
 
     return 0;
 }
