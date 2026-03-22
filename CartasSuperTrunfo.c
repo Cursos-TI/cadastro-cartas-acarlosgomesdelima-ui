@@ -98,7 +98,7 @@ int main() {
      printf ("PIB:%d\n", pib > pib1);
      printf ("densidade populacional:%d\n", densidade_populacional < densidade_populacional1);
      printf ("PIB per capita: %d\n", pib_per_capita > pib_per_capita1);
-     printf ("super poder: %d", super_poder > super_poder1);
+     printf ("super poder: %d\n", super_poder > super_poder1);
 
 
     return 0;
